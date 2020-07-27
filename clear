@@ -1,0 +1,35 @@
+[33mcommit 01d4b30216ec124c60e1d5c1ce051294495d1e99[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: chenjie <chenjie@qq.com>
+Date:   Mon Jul 27 15:22:17 2020 +0800
+
+    删除文件后操作
+
+[33mcommit 78bed222789d7dd91938b16441c410e1bb51139a[m
+Author: chenjie <chenjie@qq.com>
+Date:   Mon Jul 27 15:20:03 2020 +0800
+
+    删除文件后
+
+[33mcommit 0c7c6a96faffc698b2948fdd966ac044e4b5f1d6[m
+Author: chenjie <chenjie@qq.com>
+Date:   Mon Jul 27 15:09:49 2020 +0800
+
+    跳过暂存区
+
+[33mcommit 977d6e3bc378244077a645de50ce56ac1437f688[m
+Author: chenjie <chenjie@qq.com>
+Date:   Mon Jul 27 14:56:51 2020 +0800
+
+    新增两个
+
+[33mcommit 00735324585e184310cfded70b00190d78e09a81[m
+Author: chenjie <chenjie@qq.com>
+Date:   Mon Jul 27 11:50:21 2020 +0800
+
+    初始化了index
+
+[33mcommit 4d76c2451239cb606fdeffdfb744d5a909871702[m
+Author: chenjie <chenjie@qq.com>
+Date:   Mon Jul 27 11:24:19 2020 +0800
+
+    新建了index.html 文件
